@@ -13,4 +13,9 @@
     width: 100%; /* Ensure the images fit within the card */
     height: auto;
   }
+
+header{
+  background-color: rgb(255,240, 219);
   
+
+}
